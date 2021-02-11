@@ -1,3 +1,23 @@
 body {
   font-family: sans-serif;
 }
+
+h2 {
+  color: white;
+}
+
+.default {
+  background-color: black;
+}
+
+.bigger {
+  background-color: #ffeaa7;
+}
+
+.bigger h2 {
+  color: #ff7675;
+}
+
+.smaller {
+  background-color: #74b9ff;
+}
